@@ -102,8 +102,8 @@
     "extends": "react-app"
   },
   "name": "is-online-component",
-  "version": "0.0.1",
-  "description": "React component to detect offline and online changes",
+  "version": "0.0.2",
+  "description": "A simple react component that detects online and offline changes",
   "repository": "https://github.com/Leocardoso94/is-online-component.git",
   "author": "Leonardo Cardoso <leocardosoti@gmail.com>",
   "keywords": [
