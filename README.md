@@ -6,7 +6,7 @@
 
 > Live demo [here](https://codesandbox.io/s/4ry12w6509)
 
-![](https://raw.githubusercontent.com/leocardoso94/is-online-component/master/docs/gif.gif)
+![](https://raw.githubusercontent.com/Leocardoso94/is-online-component/master/docs/gif.gif)
 
 ## Usage
 
