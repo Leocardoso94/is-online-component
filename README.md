@@ -2,7 +2,7 @@
 
 ![npm](https://img.shields.io/npm/dt/is-online-component.svg) [![Build Status](https://travis-ci.org/Leocardoso94/is-online-component.svg?branch=master)](https://travis-ci.org/Leocardoso94/is-online-component) [![](https://data.jsdelivr.com/v1/package/npm/is-online-component/badge)](https://www.jsdelivr.com/package/npm/is-online-component)
 
-> A simple react componet that detect online and offline changes
+> A simple react component that detect online and offline changes
 
 > Live demo [here](https://codesandbox.io/s/4ry12w6509)
 
