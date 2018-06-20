@@ -5,7 +5,8 @@
     "build": "node scripts/build.js",
     "demo": "node scripts/demo.js",
     "test": "node scripts/test.js --env=jsdom",
-    "prepublish": "npm run lint && npm run test && npm run build"
+    "prepublish": "npm run lint && npm run test && npm run build",
+    "lint": "eslint src/**/*.js"
   },
   "license": "MIT",
   "dependencies": {
@@ -104,5 +105,13 @@
   "version": "0.0.1",
   "description": "React component to detect offline and online changes",
   "repository": "https://github.com/Leocardoso94/is-online-component.git",
-  "author": "Leonardo Cardoso <leocardosoti@gmail.com>"
+  "author": "Leonardo Cardoso <leocardosoti@gmail.com>",
+  "keywords": [
+    "online",
+    "detect",
+    "offline",
+    "is-online-component",
+    "react online componet",
+    "isonline"
+  ]
 }
