@@ -18,7 +18,7 @@ $ yarn add is-online-component
 
 ```jsx
 import React from 'react';
-import IsOnline from 'is-online-component ';
+import IsOnline from 'is-online-component';
 
 const handleChange = (isOnline) => {
   console.log(isOnline);
